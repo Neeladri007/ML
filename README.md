@@ -1,2 +1,2 @@
 # ML
-All ml projects are contained in this folder
+All ml projects are contained in this repo
